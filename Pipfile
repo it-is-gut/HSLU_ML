@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+numpy = "*"
+pandas = "*"
+pandas-profiling = "*"
+scikit-learn = "*"
+matplotlib = "*"
+seaborn = "*"
+mlxtend = "*"
+nltk = "*"
+scikit-image = "*"
+tqdm = "*"
+plotly = "*"
+scipy = "*"
+jupyter-contrib-nbextensions = "*"
+
+[requires]
+python_version = "3.8"
